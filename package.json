@@ -1,0 +1,20 @@
+{
+  "name": "TypeScript-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morningglory1996/TypeScript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morningglory1996/TypeScript-study/issues"
+  },
+  "homepage": "https://github.com/morningglory1996/TypeScript-study#readme"
+}
